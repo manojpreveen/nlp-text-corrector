@@ -1,4 +1,5 @@
-nlp-text-corrector
+PyPI Library : https://github.com/iAmPlus/nlp-text-corrector
+
 ==================
 
 ``nlp-text-corrector`` is a python package that helps post process the raw ASR output
